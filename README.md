@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **siddharth2000pareek@gmail.com**
 
-- 📄 Know about my experiences [https://amaranth-joelly-62.tiiny.site](https://amaranth-joelly-62.tiiny.site)
+- 📄 Know about me [Profile](https://portfolio-website-gold-delta-63.vercel.app/)
 
 - ⚡ Fun fact **I dream Tech**
 
