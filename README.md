@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Conormcgregor333](https://github.com/Conormcgregor333)
 
-- 💬 Ask me about **reactJS, Tailwind CSS, GSAP, nodeJS**
+- 💬 Ask me about **reactJS, Tailwind CSS, GSAP, Redux,RTK Query**
 
 - 📫 How to reach me **siddharth2000pareek@gmail.com**
 
