@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siddharth Pareek</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">I like to build :)</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Conormcgregor333](https://github.com/Conormcgregor333)
 
-- 💬 Ask me about **reactJS, Tailwind CSS, GSAP, Redux,RTK Query**
+- 💬 Ask me about **web development, AI and anything new in tech**
 
 - 📫 How to reach me **siddharth2000pareek@gmail.com**
 
 - 📄 Know about me [Profile](https://portfolio-website-gold-delta-63.vercel.app/)
 
-- ⚡ Fun fact **I dream Tech**
+- ⚡ Fun fact **I always think when I see some idea how do I implement it into a usable application or a service.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
